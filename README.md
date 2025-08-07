@@ -61,15 +61,8 @@ An interactive Power BI dashboard created to analyze and visualize sales data. T
 
 ---
 
-## 📎 Preview
-
-*(You can add a screenshot or link to your dashboard here)*
-
----
-
 ## 🧠 Author
 
 **Fahim Paramban**  
-PG Diploma in Data Analytics & AI  
-[LinkedIn Profile](#) *(optional)*
+PG Diploma in Data Analytics & AI
 
